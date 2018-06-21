@@ -1,0 +1,59 @@
+.nav-bar {
+    background-color: rgba(102, 153, 255);
+    height: 60px;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    position: fixed;
+}
+#logo {
+    height: 100%;
+    width: 100px;
+}
+img {
+    height: 60px;
+    width: 100px;
+}
+.nav-items {
+    float: right;
+}
+.list-item {
+    list-style-type: none;
+    display: inline-block;
+    color: blue;
+    margin-right: 15px;
+    background-color: white;
+    border-radius: 3px;
+}
+.banner {
+    text-align: center;
+    display: inline;
+}
+.cont-ban {
+    width: 30%;
+    height: 150px;
+    margin-top: 60px;
+    
+}
+.cont-con {
+    width: 50%;
+    height: 350px;
+    float: right;
+}
+/*===============contact styles=========*/
+
+.contact-form {
+    width: 600px;
+    height: 800px;
+    background-color: rgba(102, 153, 255);
+    border: 10px solid #3c5780;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.map {
+    /*margin: 0 auto;*/
+    margin-top: 25px;
+    margin-left: 370px;
+    width: 100px;
+    
+}
